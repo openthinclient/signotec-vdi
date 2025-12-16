@@ -1,0 +1,1 @@
+package-rootfs/opt/Citrix/ICAClient/* filter=lfs diff=lfs merge=lfs -text

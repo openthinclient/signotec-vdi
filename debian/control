@@ -1,0 +1,11 @@
+Source: signotec-vdi
+Section: unknown
+Priority: optional
+Maintainer: Development Team <devteam@openthinclient.com>
+
+Package: signotec-vdi
+Architecture: amd64
+Description: signotec Virtual Channel Driver
+ Supports redirection of signotec devices in VDI environments.
+ .
+ This package will be installed automatically as a dependency of supported VDI clients.
